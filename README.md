@@ -30,6 +30,7 @@ BMI-Calculator/
 ├── index.html
 ├── style.css
 ├── script.js
+├── screenshot.png
 └── README.md
 ```
 
@@ -76,7 +77,7 @@ No installations or dependencies required.
 ---
 
 ## 🖼️ Screenshot
-```
+
 ![BMI Calculator Screenshot](screenshot.png)
 ```
 
