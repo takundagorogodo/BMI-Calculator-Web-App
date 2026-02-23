@@ -75,11 +75,10 @@ BMI-Calculator/
 No installations or dependencies required.
 
 ---
-```
+
 ## 🖼️ Screenshot
 
 ![BMI Calculator Screenshot](screenshot.png)
-```
 
 ---
 
