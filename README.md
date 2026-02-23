@@ -107,6 +107,7 @@ No installations or dependencies required.
 ## 👨‍💻 Author
 
 Takundah Gorogodo  
+
 CSE Student | Machine Learning Enthusiast  
 ---
 
